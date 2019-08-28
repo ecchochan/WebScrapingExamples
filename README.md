@@ -17,3 +17,16 @@ Simple example for web scraping
        3. JSONSQLite  
        
    - Different pages of questions have different HTML format, try to finish this notebook
+
+
+
+
+
+
+# Environment Setup
+
+1. Spend some time to setup Jupyter Notebook
+
+
+2. Install some cool addons in Jupyter 
+   - https://towardsdatascience.com/supercharging-jupyter-notebooks-e22f5ad7ca18
